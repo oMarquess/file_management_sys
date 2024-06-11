@@ -34,7 +34,7 @@ To utilize this backend:
 
 - **CSV Files**: The system performs exceptionally well with CSV files, providing reliable and efficient data processing.
 - **PDF Files**: While the system generally handles PDFs effectively, there are instances where the visualization code may not execute correctly, requiring the user to refine the code manually.
-- **PowerPoint Files**: The PowerPoint handling is robust, offering detailed summaries and critiques that add value to presentation analysis.
+- **PowerPoint Files**: The PowerPoint handling is robust, offering detailed summaries and critiques that add value to presentation analysis. However, it shares a similar problem with the PDF files.
 
 ## Getting Started
 
