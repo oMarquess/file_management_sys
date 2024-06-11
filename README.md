@@ -28,7 +28,7 @@ To utilize this backend:
 2. **Data Analytics**: Implements a Retriever-And-Generator approach for data extraction and analysis, providing advanced insights and summaries based on the content of the files.
 3. **Optional Use**: This backend module is optional and can be enabled or disabled as required by the user, ensuring that resources are utilized efficiently only when needed.
 
-For API documentation and setup instructions, refer to the `api_docs.md` file included in the backend directory.
+<!-- For API documentation and setup instructions, refer to the `api_docs.md` file included in the backend directory. -->
 
 ## Evaluation Report
 
